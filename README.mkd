@@ -1,0 +1,5 @@
+首次部署该站点，需要做以下操作：
+1、在根目录下新建目录：Uploads，并赋予读、写、可执行权限。
+2、在根目录下新建目录：Runtime，并赋予读、写、可执行权限。
+3、在Application\Admin\Conf目录下新建文件：config_ext.php。
+4、根据实际的部署环境来编辑config_ext.php文件。文件内容格式可参考模板文件：config_ext.php.template

@@ -1,0 +1,8 @@
+Application/Admin/Conf/config_ext.php
+Runtime/
+Uploads/
+.settings/
+.buildpath
+.project
+.svn/
+.htaccess
